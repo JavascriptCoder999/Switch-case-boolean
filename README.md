@@ -29,6 +29,7 @@ pageStarter.html files explained code is:
   <i>PLAY</i> //writing "PLAY" in italics
     <u>PLAY</u> //writing "PLAY" underlined
 </p> //end of paragraph
+  
 <a href="https://open.spotify.com/user/12hh5w50rmwun1exi1aq6yesd">my spotify account</a> //making it so if you press the "my spotify account", it takes you to my spotify account
   <br> //enter
 <b><i><u>pLeAsE fOlLoW mE</b></i></u> //writing "pLeAsE fOlLoW mE" in bold, italics and underline
