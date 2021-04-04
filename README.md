@@ -1,5 +1,5 @@
 # Switch-case-boolean
 This is a switch case and boolean logic test:::]]}
 The code languages used in this masterpiece are HTML and JavaScript
-Javascript = 66.8 %
-HTML = 
+The amount of Javascript i used in the making of this was 66.8 %
+The amount of HTML i used was 33.2 %
