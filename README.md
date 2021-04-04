@@ -43,6 +43,64 @@ pageStarter.html files explained code is:
 <source src="pig.mp3"type="audio/mp3" > //the sound file
 </audio > //end of audio statement
 </html > //end of html code
+undefined
+
 
 weekreco.js files explained code is:
-
+unfinished code - switch case
+//week recogniser
+switch (new Date().getDay()) {
+  case 0: //if case 0 happens, the day is sunday
+    day = "Sunday";
+    break;
+  case 1: //if case 0 happens, the day is monday
+    day = "Monday";
+    break;
+  case 2: //if case 0 happens, the day is tuesday
+     day = "Tuesday";
+    break;
+  case 3: //if case 0 happens, the day is wednesday
+    day = "Wednesday";
+    break;
+  case 4: //if case 0 happens, the day is thursday
+    day = "Thursday";
+    break;
+  case 5: //if case 0 happens, the day is friday
+    day = "Friday";
+    break;
+  case 6: //if case 0 happens, the day is saturday
+    day = "Saturday";
+}
+switch (new Date().getDay()) {
+  case 6:
+    text = "Today is Saturday";
+    break;
+  case 0:
+    text = "Today is Sunday";
+    break;
+  default:
+    text = "Looking forward to the Weekend";
+}
+var x = "0";
+switch (x) {
+  case 0:
+    text = "Off";
+    break;
+  case 1:
+    text = "On";
+    break;
+  default:
+    text = "No value found";
+}
+switch (new Date().getDay()) {
+  case 4:
+  case 5:
+    text = "Soon it is Weekend";
+    break;
+  case 0:
+  case 6:
+    text = "It is Weekend";
+    break;
+  default:
+    text = "Looking forward to the Weekend";
+} //end of switch case
