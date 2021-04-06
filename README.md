@@ -6,7 +6,7 @@ the amount of HTML i used was 33.2 %.
 
 sense.js files explained code are:
 
-if($this.isKeyPressed(Keys.space)){ //if space is pressed, then (boolean logic)
+`if($this.isKeyPressed(Keys.space)){ //if space is pressed, then (boolean logic)
 
   $this.toggleVisible=false //hide
   
@@ -16,12 +16,12 @@ if($this.iskeyPressed(Keys.y)){ //if y is pressed
 
   $this.toggleVisible=true //show
   
-} //end of second if statement
+} //end of second if statement`
 
 
 pageStarter.html files explained code is:
 
-<html> //start of code
+`<html> //start of code
   
 <br> //line break
 
@@ -63,14 +63,14 @@ pageStarter.html files explained code is:
 
 </html > //end of html code
 
-undefined
+undefined`
 
 
 weekreco.js files explained code is:
 
 unfinished code - switch case
 
-//week recogniser
+`//week recogniser
 
 switch (new Date().getDay()) {
 
@@ -177,4 +177,4 @@ switch (new Date().getDay()) {
   
     text = "Looking forward to the Weekend";
     
-} //end of switch case
+} //end of switch case`
